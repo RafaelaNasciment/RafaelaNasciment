@@ -11,7 +11,7 @@
 ![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=Microsoft%20Azure)
 ![Postman](https://img.shields.io/badge/postman-000?style=for-the-badge&logo=postman)
 ![JMeter](https://img.shields.io/badge/jMeter-000?style=for-the-badge&logo=Apache&logoColor=%235555ff)
-![COSMOSDB](https://img.shields.io/badge/cosmosdb-000?style=for-the-badge&logo=cosmosdb)
+![COSMOSDB](https://img.shields.io/badge/CosmosDB-000?style=for-the-badge&logo=Microsoft%20Azure&logoColor=%234444ff)
 
 # Stats
 
