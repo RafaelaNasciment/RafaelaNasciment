@@ -8,9 +8,9 @@
 # Skills
 
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085&logoColor=FF8C00&labelColor=C71585)
-![Azure](https://img.shields.io/badge/Azure-000?logo=Microsoft%20Azure)
+![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=Microsoft%20Azure)
 ![Postman](https://img.shields.io/badge/postman-000?style=for-the-badge&logo=postman)
-![JMeter](https://img.shields.io/badge/jMeter-000?logo=Apache&logoColor=%235555ff)
+![JMeter](https://img.shields.io/badge/jMeter-000?style=for-the-badge&logo=Apache&logoColor=%235555ff)
 ![COSMOSDB](https://img.shields.io/badge/cosmosdb-000?style=for-the-badge&logo=cosmosdb)
 
 # Stats
